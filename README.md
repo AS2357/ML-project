@@ -4,7 +4,7 @@ All code available in both Google Colab and Github
 
 ## Data Scraping
 
-Using R package 'readabs' and 'readrba' for downloading data we need, monthly data only. 
+Using R package `readabs` and `readrba` for downloading data we need, monthly data only. 
 
 [link to R code]
 
