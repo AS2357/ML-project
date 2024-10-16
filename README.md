@@ -13,3 +13,6 @@ Using R package 'readabs' and 'readrba' for downloading data we need, monthly da
 ## Random Forest Classification
 
 [link to Google Colab]
+
+## Other Methods with Unfavourable Results
+
