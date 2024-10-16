@@ -1,6 +1,6 @@
 # ML-project
 
-All code available in both Google Colab and Github
+University Project
 
 ## Data Scraping
 
