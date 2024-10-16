@@ -6,7 +6,10 @@ All code available in both Google Colab and Github
 
 Using R package `readabs` and `readrba` for downloading data we need, monthly data only. 
 
+[link to R file via Github](https://github.com/AS2357/ML-project/blob/main/data%20extracting.R)
+
 [link to R markdown file via Github](https://github.com/AS2357/ML-project/blob/main/rba%20abs%20data%20extracting%20updated.Rmd)
+
 
 ## ARIMA + Gradient Boost
 
