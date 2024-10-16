@@ -30,3 +30,11 @@ adaboost](https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matec
 
 ## Other Methods with Unfavourable Results
 
+Random Forest Regression
+[Link to Google Colab](https://colab.research.google.com/drive/1aGnrsftl0K-cpRS_lGmUN7NxQ_KnM2p6?usp=sharing#scrollTo=KB4uyHdtgDKo)
+
+
+
+
+
+
