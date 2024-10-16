@@ -17,6 +17,8 @@ Code link below:
 [Github]([https://github.com/AS2357/ML-project/blob/main/arima_boosting.ipynb])
 
 
+[link to Google Colab](https://github.com/AS2357/ML-project/blob/main/arima_boosting.ipynb)
+
 
 ## Random Forest Classification
 
