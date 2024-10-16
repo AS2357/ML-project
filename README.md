@@ -14,10 +14,11 @@ Code link below:
 
 [link to Google Colab]
 
-[Github]([https://github.com/AS2357/ML-project/blob/main/arima_boosting.ipynb])
+[Github ARIMA + Boost](https://github.com/AS2357/ML-project/blob/main/arima_boosting.ipynb)
 
-
-[link to Google Colab](https://github.com/AS2357/ML-project/blob/main/arima_boosting.ipynb)
+Referenced paper: 
+[Time series classification based on arima and
+adaboost](https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matecconf_cscns2020_03024.pdf)
 
 
 ## Random Forest Classification
