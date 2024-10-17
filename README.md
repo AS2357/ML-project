@@ -40,4 +40,4 @@ Logistic Regression \
 
 
 (ARIMA (only); Exponential Weighting : 
-[Link to gitHub](https://github.com/AS2357/ML-project/blob/main/others/project_ml%20update.ipynb))
+[Link to GitHub](https://github.com/AS2357/ML-project/blob/main/others/project_ml%20update.ipynb))
