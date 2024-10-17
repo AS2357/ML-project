@@ -1,4 +1,4 @@
-# ML-project
+# ML Empircal Project
 
 University Project: predicting September 2024 AU cash rate target.
 
@@ -13,7 +13,7 @@ Using R package `readabs` and `readrba` for downloading data we need, monthly da
 
 ## ARIMA + Gradient Boost
 
-Code link below:
+Accuracy score: 79.03%
 
 [Link to Google Colab](https://colab.research.google.com/drive/1PpEVo8drVNywd_HUwtb6wvRqEN7FHjiO#scrollTo=k5k_ILRCEFnV)
 
@@ -26,6 +26,8 @@ adaboost](https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matec
 
 ## Random Forest Classification
 
+Accuracy score: 83.87%
+
 [Link to Google Colab](https://colab.research.google.com/drive/1l5AcyIL87XSAHZhSw_neDUeZoUP2IlbG?usp=sharing#scrollTo=DjQzaaEU2zQd)
 
 ## Other Methods with Unfavourable Results
@@ -33,10 +35,9 @@ adaboost](https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matec
 Random Forest Regression \
 [Link to Google Colab](https://colab.research.google.com/drive/1JSzd30ufbVa5-cTP_ol9hbknsiGP1Dwm?usp=sharing) 
 
-ARIMA (only); Exponential Weighting \
-[Link to gitHub](https://github.com/AS2357/ML-project/blob/main/others/project_ml%20update.ipynb)
-
 Logistic Regression \
 [Link to Google Colab](https://drive.google.com/file/d/1R5w1z6ZynN7jquIoUMiXqjtwaU7eboH4/view?usp=sharing)
 
 
+(ARIMA (only); Exponential Weighting : 
+[Link to gitHub](https://github.com/AS2357/ML-project/blob/main/others/project_ml%20update.ipynb))
