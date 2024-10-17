@@ -30,8 +30,11 @@ adaboost](https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matec
 
 ## Other Methods with Unfavourable Results
 
-Random Forest Regression \\
-[Link to Google Colab](https://colab.research.google.com/drive/1ge4urh-vpFhwHvy1iiIgcWp_dOHVwdtS?usp=sharing)
+Random Forest Regression
+[Link to Google Colab](https://colab.research.google.com/drive/1ge4urh-vpFhwHvy1iiIgcWp_dOHVwdtS?usp=sharing) 
+
+Logistic Regression; ARIMA; Exponential Weighting
+[link to gitHub](https://github.com/AS2357/ML-project/blob/main/others/project_ml%20update.ipynb)
 
 
 
