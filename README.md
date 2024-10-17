@@ -28,7 +28,7 @@ adaboost](https://www.matec-conferences.org/articles/matecconf/pdf/2020/05/matec
 
 Accuracy score: 83.87%
 
-[Link to Google Colab](https://colab.research.google.com/drive/1l5AcyIL87XSAHZhSw_neDUeZoUP2IlbG?usp=sharing#scrollTo=DjQzaaEU2zQd)
+[Link to Google Colab]([https://colab.research.google.com/drive/1l5AcyIL87XSAHZhSw_neDUeZoUP2IlbG?usp=sharing#scrollTo=DjQzaaEU2zQd](https://colab.research.google.com/drive/1l5AcyIL87XSAHZhSw_neDUeZoUP2IlbG?usp=sharing))
 
 ## Other Methods with Unfavourable Results
 
