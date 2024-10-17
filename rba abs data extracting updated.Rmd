@@ -8,8 +8,15 @@ output: html_document
 Click the variable 'all_tables', it shows the whole data set, use the series number you need to download the corresponding data.
 
 ```{r}
+# install if you don't have them
+# install.packages("readrba")
+# install.packages("readabs")
+
 library(readrba)
 library(readabs)
+
+citation("readrba")
+citation("readabs")
 ```
 
 ```{r}

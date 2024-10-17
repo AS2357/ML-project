@@ -14,6 +14,9 @@
 library(readrba)
 library(readabs)
 
+citation("readrba")
+citation("readabs")
+
 # Browse RBA series and get unique series numbers
 all_tables <- browse_rba_series()
 head(all_tables)
